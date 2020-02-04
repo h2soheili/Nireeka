@@ -1,7 +1,7 @@
 # Nireeka
-<img src="src/i0.png" width="400" />
+<img src="i0.png" width="400" />
 
-<img src="src/i1.png" width="400" />
+<img src="i1.png" width="400" />
 
 <img src="src/i2.png" width="400" />
 
